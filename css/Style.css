@@ -1,0 +1,122 @@
+
+body{
+  background-image:url(../images/fondototal-01.jpg);
+  background-size: 100%, 98%;
+  background-repeat: no-repeat;
+
+}
+h1{
+  text-align: center;
+  color: #D2667D;
+}
+
+ #mercurio{
+  position: absolute;
+  left: 120px;
+  top:420px;
+}
+
+#mercurio_name{
+ position: absolute;
+ left: 170px;
+ top:400px;
+}
+
+#venus{
+  position: absolute;
+  left: 265px;
+  top:440px;
+}
+
+#venus_name{
+  position: absolute;
+  left: 330px;
+  top:440px;
+}
+#tierra{
+  position: absolute;
+  left: 300px;
+  top:190px;
+}
+
+#tierra_name{
+  position: absolute;
+  left: 270px;
+  top:185px;
+}
+
+#marte{
+  position: absolute;
+  left: 530px;
+  top: 480px;
+}
+
+#marte_name{
+  position: absolute;
+  left: 500px;
+  top: 480px;
+}
+
+#jupiter{
+  position: absolute;
+  left: 600px;
+  top: 200px;
+}
+
+#jupiter_name{
+  position: absolute;
+  left: 720px;
+  top: 200px;
+}
+
+#saturno{
+  position: absolute;
+  left: 810px;
+  top: 380px;
+}
+
+#saturno_name{
+  position: absolute;
+  left: 790px;
+  top: 380px;
+}
+
+#urano{
+  position: absolute;
+  left: 970px;
+  top: 130px;
+}
+
+#urano_name{
+  position: absolute;
+  left: 1060px;
+  top: 130px;
+}
+
+#neptuno{
+  position: absolute;
+  left: 1170px;
+  top: 550px;
+}
+
+#neptuno_name{
+  position: absolute;
+  left: 1120px;
+  top: 550px;
+}
+
+
+
+
+img{
+
+    float: left;
+    margin: 20px;
+    -webkit-transition: margin 0.5s ease-out;
+    -moz-transition: margin 0.5s ease-out;
+    -o-transition: margin 0.5s ease-out;
+}
+
+img:hover {
+    margin-top: 2px;
+}
