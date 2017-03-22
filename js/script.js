@@ -79,3 +79,6 @@
       var myWindow = window.open("", "MsgWindow", "width=250,height=100", "color=red");
     myWindow.document.write("Tu peso en neptuno es: " + peso_final + " Kilos");
     }
+
+
+  
